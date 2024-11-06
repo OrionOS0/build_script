@@ -20,6 +20,6 @@ git clone https://github.com/OrionOS0/android_hardware_xiaomi.git --depth 1 -b m
 # set build environment
 . build/envsetup.sh
 # lunch
-lunch orion_mojito-ap2a-userdebug
+lunch lineage_mojito-ap2a-userdebug
 # bacon
 mka space
