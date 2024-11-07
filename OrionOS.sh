@@ -38,6 +38,6 @@ git clone https://github.com/OrionOS0/android_packages_apps_FMRadio.git --depth 
 # set build environment
 . build/envsetup.sh
 # lunch
-lunch orion_mojito-ap2a-userdebug
+lunch lineage_mojito-ap2a-userdebug
 # bacon
 mka space
