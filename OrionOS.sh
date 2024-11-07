@@ -32,7 +32,7 @@ git clone https://gitlab.com/Sepidermn/android_vendor_xiaomi_sm6150-common.git -
 # hardware tree
 git clone https://github.com/OrionOS0/android_hardware_xiaomi.git --depth 1 -b mojito hardware/xiaomi
 # add vendor/qcom/opensource/libfmjni
-git clone https://github.com/OrionOS0/android_vendor_qcom_opensource_libfmjni.git --depth 1 -b lineage-21.0 vendor/qcom/opensource/libmjni
+git clone https://github.com/OrionOS0/android_vendor_qcom_opensource_libfmjni.git --depth 1 -b lineage-21.0 vendor/qcom/opensource/libfmjni
 # add packages/apps/FMRadio
 git clone https://github.com/OrionOS0/android_packages_apps_FMRadio.git --depth 1 -b lineage-21.0 packages/apps/FMRadio
 # set build environment
